@@ -126,7 +126,7 @@ print_r($client->query($query));
 ```
 
 ## _Really_ Detailed Queries
-Need access to extremely detailed queries that involce using
+Need access to extremely detailed queries that involve using
 Conditions? Support for condition queries have been added to
 the autotask-php client. The important thing to note when
 using conditions is that order matters. Any `QueryCondition`
